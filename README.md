@@ -8,3 +8,11 @@ You can check out the screenshots down below to find more.
 
 Also please keep in mind that this is vibecoded as much I hate AI i had no other way around but to do it, i think AI can be great in making these small commandlines or small programs that makes daily life a bit easier.
 Thanks for trying out aria2-gui-gush.
+
+<img width="338" height="180" alt="image" src="https://github.com/user-attachments/assets/e3a9edfe-7b71-4f7a-930e-6e6ec841071b" />
+
+<img width="491" height="244" alt="image" src="https://github.com/user-attachments/assets/fffcb153-f1f2-4dd4-afa4-4716781ba2ba" />
+
+<img width="1920" height="999" alt="image" src="https://github.com/user-attachments/assets/523e4139-a174-46a4-958b-e173576c059b" />
+
+<img width="309" height="229" alt="image" src="https://github.com/user-attachments/assets/e34f6821-3b54-4e41-9312-01a10e1c0032" />
